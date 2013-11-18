@@ -1,0 +1,4 @@
+mc_tube_explorer:
+    resource: "@MCTubeExplorerBundle/Resources/config/routing.yml"
+    prefix:   /
+

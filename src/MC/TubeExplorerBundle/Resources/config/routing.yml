@@ -1,0 +1,3 @@
+mc_tube_explorer_homepage:
+    pattern:  /explore
+    defaults: { _controller: MCTubeExplorerBundle:Default:index }
